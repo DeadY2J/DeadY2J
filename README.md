@@ -12,3 +12,4 @@ Hi, I'm Jorge 👋 I build tools that automate video with AI, and I run my own Y
 
 - [OmniRoute](https://github.com/diegosouzapw/OmniRoute): Spanish UI translations and a fix for a retired NVIDIA model (merged)
 - [agent-skills](https://github.com/addyosmani/agent-skills): docs fix (merged)
+Contact: linkedin.com/in/jorge-jacinto-lamelas-godoy-280a8b43
